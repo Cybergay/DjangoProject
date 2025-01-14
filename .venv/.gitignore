@@ -1,0 +1,22 @@
+# Виртуальное окружение
+.venv/
+
+# Настройки PyCharm
+.idea/
+
+# SQLite база данных
+db.sqlite3
+
+# Логи и временные файлы
+*.log
+__pycache__/
+*.pyc
+*.pyo
+
+# Статические файлы
+/static/
+
+# Миграции
+*/migrations/
+# created by virtualenv automatically
+../.venv/Lib
